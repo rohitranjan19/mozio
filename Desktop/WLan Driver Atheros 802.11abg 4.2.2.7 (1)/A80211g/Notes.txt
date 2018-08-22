@@ -1,0 +1,20 @@
+2006/03/14 Atheros release note for Acer T60H921 and T60N874.
+
+Release PCI for 2K/XP
+
+Driver version: WHQL v4.2.2.7
+1.Just install driver only package.
+2.Add setup.iss file for silent install.
+3.Fixed NMI parity error on ICH7.
+4.Add LED gpio function support in INF file.
+5.Fixed LED always bright issue.
+
+
+2006/02/23 Atheros release note for Acer T60H921 and T60N874.
+
+Release PCI for 2K/XP
+
+Driver version: WHQL-ready v4.2.2.7
+1.Just install driver only package.
+2.Add setup.iss file for silent install.
+3.Fixed NMI parity error on ICH7.
